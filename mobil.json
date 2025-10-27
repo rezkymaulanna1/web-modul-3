@@ -2,7 +2,7 @@
   "cars": [
     {
       "id": 1,
-      "tipe": "City Car",
+      "tipe": "Avanza",
       "deskripsi": "Mobil compact untuk perjalanan dalam kota yang efisien dan hemat bahan bakar.",
       "harga": "250000",
       "warna": "from-blue-400 to-blue-600",
